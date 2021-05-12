@@ -6,7 +6,7 @@ def somaImposto(taxa, custo):
 v = float(input('Valor do imovel: '))
 c = float(input('Taxa de: '))
 
-somaImposto()
+somaImposto( )
 
 
 
